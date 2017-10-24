@@ -1,0 +1,41 @@
+
+[ClassVersion("1.0.0.0"), FriendlyName("xParamTest1")]
+class MSFT_xParamTest1 : OMI_BaseResource
+{
+    [Key, Description("Parameter to test what the limit is")] String Param0;
+    [Key, Description("Parameter to test what the limit is")] String Param1;
+    [Key, Description("Parameter to test what the limit is")] String Param2;
+    [Required, Description("Parameter to test what the limit is")] String Param3;
+    [Required, Description("Parameter to test what the limit is")] String Param4;
+    [Write, Description("Parameter to test what the limit is")] String Param5;
+    [Write, Description("Parameter to test what the limit is")] String Param6;
+    [Write, Description("Parameter to test what the limit is")] String Param7;
+    [Write, Description("Parameter to test what the limit is")] String Param8;
+    [Write, Description("Parameter to test what the limit is")] String Param9;
+    [Write, Description("Parameter to test what the limit is")] String Param10;
+    [Write, Description("Parameter to test what the limit is")] String Param11;
+    [Write, Description("Parameter to test what the limit is")] String Param12;
+    [Write, Description("Parameter to test what the limit is")] String Param13;
+    [Write, Description("Parameter to test what the limit is")] String Param14;
+    [Write, Description("Parameter to test what the limit is")] String Param15;
+    [Write, Description("Parameter to test what the limit is")] String Param16;
+    [Write, Description("Parameter to test what the limit is")] String Param17;
+    [Write, Description("Parameter to test what the limit is")] String Param18;
+    [Write, Description("Parameter to test what the limit is")] String Param19;
+    [Write, Description("Parameter to test what the limit is")] String Param20;
+    [Write, Description("Parameter to test what the limit is")] String Param21;
+    [Write, Description("Parameter to test what the limit is")] String Param22;
+    [Write, Description("Parameter to test what the limit is")] String Param23;
+    [Write, Description("Parameter to test what the limit is")] String Param24;
+    [Write, Description("Parameter to test what the limit is")] String Param25;
+    [Write, Description("Parameter to test what the limit is")] String Param26;
+    [Write, Description("Parameter to test what the limit is")] String Param27;
+    [Write, Description("Parameter to test what the limit is")] String Param28;
+    [Write, Description("Parameter to test what the limit is")] String Param29;
+    [Write, Description("Parameter to test what the limit is")] String Param30;
+    [Write, Description("Parameter to test what the limit is")] String Param31;
+    [Write, Description("Parameter to test what the limit is")] String Param32;
+    [Write, Description("Parameter to test what the limit is")] String Param33;
+    [Write, Description("Parameter to test what the limit is")] String Param34;
+};
+

@@ -1,0 +1,16 @@
+
+[ClassVersion("1.0.0.0"), FriendlyName("xSqlServerReallyReallyReallyReallyReallyLongResName2")]
+class MSFT_xSqlServerReallyReallyReallyReallyReallyLongResName2 : OMI_BaseResource
+{
+    [Key, Description("Parameter to test what the limit is")] String Param0;
+    [Key, Description("Parameter to test what the limit is")] String Param1;
+    [Key, Description("Parameter to test what the limit is")] String Param2;
+    [Required, Description("Parameter to test what the limit is")] String Param3;
+    [Required, Description("Parameter to test what the limit is")] String Param4;
+    [Write, Description("Parameter to test what the limit is")] String Param5;
+    [Write, Description("Parameter to test what the limit is")] String Param6;
+    [Write, Description("Parameter to test what the limit is")] String Param7;
+    [Write, Description("Parameter to test what the limit is")] String Param8;
+    [Write, Description("Parameter to test what the limit is")] String Param9;
+};
+
